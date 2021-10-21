@@ -1,6 +1,7 @@
-# Potentials in entropic semi-discrete OT
+# Nearly Tight Convergence Bounds for Semi-discrete Entropic Optimal Transport
 
-3 folders:
-* ```suboptimaliy```: shows the rate of convergence of suboptimality on a toy example in dimension 1
-* ```potentials-behavior```: study the behavior of the potentials w.r.t. regularization parameter on a toy example
-* ```scaling```: showcase a 1d example where using a scaling scheme to solve OT with a small regularization parameter (epsilon = 10^{-4}) is more rapid than without any scaling scheme
+Experiments for the preprint *Nearly Tight Convergence Bounds for Semi-discrete Entropic Optimal Transport*, Alex Delalande.
+
+Notebooks:
+* ```suboptimaliy.ipynb```: shows the rate of convergence of suboptimality on toy examples in dimension 1
+* ```potentials-behavior-sourcename.ipynb```: study the behavior of the potentials w.r.t. regularization parameter on a toy example in dimension 1 with source *sourcename*
